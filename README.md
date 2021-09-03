@@ -1,5 +1,5 @@
 # telegram-channel-subscriber-counter
-A tool used to record the numbers of the subscribers to a telegram channel
+A tool used to record the numbers of subscribers to a telegram channel
 
 The Python file [telegramChannelSubscriberCounter.py](https://github.com/KElee01/telegram-channel-subscriber-counter/blob/main/telegramChannelSubscriberCounter.py) is what I used now, you can do some change to make it useful to you.
 # Usage
