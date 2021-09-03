@@ -4,7 +4,6 @@ import time
 
 dr = webdriver.Safari()  # open safari
 
-print('打开网站')
 url = 'https://t.me/NewlearnerChannel'
 dr.get(url)
 
